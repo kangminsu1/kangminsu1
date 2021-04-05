@@ -14,7 +14,7 @@
 M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
 - 💼 &nbsp; A Field in Interest: 
 
-Object Detection and Tracking with Camera & LiDAR using Deep Learning and Kalman Filtering. Localization with Particle Filtering. V2X System.
+Object Detection and Tracking with Camera & LiDAR using Deep Learning and Kalman Filtering. Localization and V2X System.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
