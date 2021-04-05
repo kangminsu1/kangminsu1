@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<p align="center">
+ <h2 align="center">Welcome to my Profile</h2>
+</p>
 
 <h2> Hey there! I'm Min Su Kang.</h2>
 
