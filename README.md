@@ -2,7 +2,7 @@
  <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-<h2> Hey there! I'm Min Su Kang.</h2>
+<h2> Hi! I'm Min Su Kang.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
