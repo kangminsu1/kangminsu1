@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="center">
- <h2 align="center">Welcome to my Profile</h2>
+ <h2 align="left">Hi! I'm Min Su Kang.<</h2>
 </p>
 
-<h2> Hi! I'm Min Su Kang.</h2>
+<h2> I'm a Computer Science and Engineering Student.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
