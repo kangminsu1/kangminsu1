@@ -58,7 +58,7 @@ Object Detection and Tracking with Camera & LiDAR using Deep Learning and Kalman
 
 <p align="center">
  
-<a href="https://www.linkedin.com/in/minsu-kang-b3706b170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%MinSuKang%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/minsu-kang-b3706b170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MinSuKang-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:kangminsu243@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kangminsu243@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
