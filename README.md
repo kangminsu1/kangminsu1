@@ -15,8 +15,6 @@ M.S in Inha University from South Korea. Major in Electro Software Engineering a
 2020 V2X Demonstration Challenge [1th], 2020 Embedded SW Contest [18th], 2020 Automonous Driving Contest for University Students, 2019 Startup Competition.
 - 💼 &nbsp; A Field in Interest: 
 
-Perception: Object Detection [Deep Learning (YOLO v4, Faster RCNN)] -- Camera
-
 Perception: Object Detection [L-Shape Fitting] -- 2D Lidar: Driving Simulator
 
 Decision: Global Path Planning and Local Path Planning [A*, Frenet Frame Planning] -- HD Map
