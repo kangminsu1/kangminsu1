@@ -15,11 +15,11 @@ M.S in Inha University from South Korea. Major in Electro Software Engineering a
 2020 V2X Demonstration Challenge [1th], 2020 Embedded SW Contest [18th], 2020 Automonous Driving Contest for University Students, 2019 Startup Competition.
 - 💼 &nbsp; A Field in Interest: 
 
-Perception: Object Detection [L-Shape Fitting] -- 2D Lidar: Driving Simulator
+Perception: Object Detection -- 2D Lidar: L-Shape Fitting, 3D Lidar: Deep Learning
 
 Decision: Global Path Planning and Local Path Planning [A*, Frenet Frame Planning] -- HD Map
  
-Localization: Vehicle Position Tracking [Extended Kalman Filtering, Particle Filtering] -- GNSS(U-Blox, RTK), V2X
+Localization: Vehicle Position Tracking [Extended Kalman Filtering, Particle Filtering, NDT Localization, HDL-Graph SLAM] -- GNSS(U-Blox, RTK), V2X, Lidar, IMU
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
