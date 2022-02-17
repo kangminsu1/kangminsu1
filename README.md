@@ -15,10 +15,8 @@ M.S in Inha University from South Korea. Major in Electro Software Engineering a
 2020 V2X Demonstration Challenge [1th], 2020 Embedded SW Contest [18th], 2020 Automonous Driving Contest for University Students, 2019 Startup Competition.
 
 [Paper]
-1. [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART)
-  - The journal of the Korea Institute of Intelligent Transportation Systems
-2. [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970)
-  - The journal of the Korea Institute of Intelligent Transportation Systems
+1. [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
+2. [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970), The journal of the Korea Institute of Intelligent Transportation Systems
 
 - 💼 &nbsp; A Field in Interest: 
 
