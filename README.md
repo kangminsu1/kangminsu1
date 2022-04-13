@@ -5,7 +5,7 @@
 
 <h2> I'm a Computer Science and Engineering Student.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp; About Me </h3>
 
 - 🎓 &nbsp; Introduction: 
   + Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
@@ -20,10 +20,9 @@
   + 2022 Domestic Patent Registration 
     - Title: Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera
  
-
-[Paper]
-1. [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
-2. [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970), The journal of the Korea Institute of Intelligent Transportation Systems
+- 📄 Paper
+  + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
+  + [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970), The journal of the Korea Institute of Intelligent Transportation Systems
 
 - 💼 &nbsp; A Field in Interest: 
 
