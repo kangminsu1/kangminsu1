@@ -9,7 +9,8 @@
 
 - 🎓 &nbsp; Introduction: 
 
-M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
+* Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
+* 
 - 🤔 &nbsp; Achievement: 
 
 2020 V2X Demonstration Challenge [1th], 2020 Embedded SW Contest [18th], 2020 Automonous Driving Contest for University Students, 2019 Startup Competition.
