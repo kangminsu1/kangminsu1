@@ -8,19 +8,18 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Introduction: 
-
-+ Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
-+ Current: Navigation Advanced Development Team in Hyundai Autoever 
+  + Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
+  + Current: Navigation Advanced Development Team in Hyundai Autoever 
+ 
 - 🤔 &nbsp; Achievement: 
-
-+ 2019 Startup Competition.
-+ 2020 V2X Demonstration Challenge [1th]
-+ 2020 Embedded SW Contest [18th]
-+ 2020 Automonous Driving Contest for University Students
-+ 2022 INSTAR Festival Contest [1th]
-+ 2022 Domestic Patent Registration 
-  - Title: Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera
-
+  + 2019 Startup Competition.
+  + 2020 V2X Demonstration Challenge [1th]
+  + 2020 Embedded SW Contest [18th]
+  + 2020 Automonous Driving Contest for University Students
+  + 2022 INSTAR Festival Contest [1th]
+  + 2022 Domestic Patent Registration 
+    - Title: Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera
+ 
 
 [Paper]
 1. [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
