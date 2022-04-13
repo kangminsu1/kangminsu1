@@ -13,7 +13,13 @@
 + Current: Navigation Advanced Development Team in Hyundai Autoever 
 - 🤔 &nbsp; Achievement: 
 
-2020 V2X Demonstration Challenge [1th], 2020 Embedded SW Contest [18th], 2020 Automonous Driving Contest for University Students, 2019 Startup Competition.
++ 2019 Startup Competition.
++ 2020 V2X Demonstration Challenge [1th]
++ 2020 Embedded SW Contest [18th]
++ 2020 Automonous Driving Contest for University Students
++ 2022 INSTAR Festival Contest [1th]
++ 2022 Domestic Patent Registration [METHOD AND SYSTEM FOR TRAFFIC ACCIDENT REPLAY SYSTEM BY UTILIZING DATA FROM SELF-DRIVING CAR SENSOR AND INFRA-CAMERA] 
+
 
 [Paper]
 1. [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
