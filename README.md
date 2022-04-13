@@ -25,12 +25,9 @@
   + [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970), The journal of the Korea Institute of Intelligent Transportation Systems
 
 - 💼 &nbsp; A Field in Interest: 
-
-Perception: Object Detection -- 2D Lidar: L-Shape Fitting, 3D Lidar: Deep Learning
-
-Decision: Global Path Planning and Local Path Planning [A*, Frenet Frame Planning] -- HD Map
- 
-Localization: Vehicle Position Tracking [Extended Kalman Filtering, Particle Filtering, NDT Localization, HDL-Graph SLAM] -- GNSS(U-Blox, RTK), V2X, Lidar, IMU
+  + Perception: Object Detection -- 2D Lidar: L-Shape Fitting, 3D Lidar: Deep Learning
+  + Decision: Global Path Planning and Local Path Planning [A*, Frenet Frame Planning] -- HD Map
+  + Localization: Vehicle Position Tracking [Extended Kalman Filtering, Particle Filtering, NDT Localization, HDL-Graph SLAM] -- GNSS(U-Blox, RTK), V2X, Lidar, IMU
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
