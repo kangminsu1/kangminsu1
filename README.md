@@ -19,6 +19,7 @@
   + 2022 INSTAR Festival Contest [1th]
   + 2022 Domestic Patent Registration 
     - Title: Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera
+    - Title: Method and device for generating GNSS jamming signal data in vehicle
  
 - 📄 Paper
   + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
