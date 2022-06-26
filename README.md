@@ -18,7 +18,7 @@
   + 2020 Automonous Driving Contest for University Students
   + 2022 INSTAR Festival Contest [1th]
   + 2022 Domestic Patent Registration 
-    - Title: Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera
+    - Title: [Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera](https://patents.google.com/patent/KR102376526B1/ko?oq=KR102376526)
     - Title: Method and device for generating GNSS jamming signal data in vehicle
  
 - 📄 Paper
