@@ -90,7 +90,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/minsu-kang-b3706b170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Min_Su_Kang-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%88%98-%EA%B0%95-845094209/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Min_Su_Kang-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://codekang.com/"><img alt="Wordpress" src="https://img.shields.io/badge/LinkedIn-Min_Su_Kang-blue?style=flat-square&logo=Wordpress"></a>
 <a href="mailto:kangminsu243@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kangminsu243@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
