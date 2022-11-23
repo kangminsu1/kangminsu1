@@ -8,8 +8,10 @@
 <h3> 👨🏻‍💻 &nbsp; About Me </h3>
 
 - <h4> 🎓 &nbsp; Introduction </h4>
+  
   + Past
     + M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
+  
   + Current
     + Navigation Advanced Development Team in Hyundai Autoever 
  
