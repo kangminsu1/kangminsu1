@@ -11,6 +11,35 @@
   + Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
   + Current: Navigation Advanced Development Team in Hyundai Autoever 
  
+- 🏃‍♂ &nbsp; Activity
+2019
+  + Startup Competition in South Korea
+
+2020
+  + 1th V2X Demonstration Challenge in South Korea
+  + 18th Embedded SW Contest in South Korea
+  + 2020 Automonous Driving Contest for University Students in South Korea
+
+2022
+  + 1th INSTAR Festival Contest in University
+
+
+- 🎊 &nbsp; Achievement
+Domestic Patent Registration
+  + Title: [Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car 
+ Sensor and Infra-Camera](https://patents.google.com/patent/KR102376526B1/ko?oq=KR102376526)
+  + Title: Method and device for generating GNSS jamming signal data in vehicle
+
+Paper
+ ● SCI
+  + Lidar and V2X-Based Cooperative Localization Technique for Autonomous Driving in a GNSS- 
+ Denied Environment
+ ● KCI
+  + [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on 
+ Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970)
+  + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving 
+ Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART)
+ 
 - 🤔 &nbsp; Achievement: 
   + 2019 Startup Competition.
   + 2020 V2X Demonstration Challenge [1th]
@@ -43,7 +72,6 @@
 - 🌐 &nbsp;OS
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Rasberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - ⚙️ &nbsp;Version Control
 
