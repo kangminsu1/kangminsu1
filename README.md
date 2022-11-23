@@ -12,7 +12,9 @@
   + Current: Navigation Advanced Development Team in Hyundai Autoever 
  
 - 🏃‍♂ &nbsp; Activity
--- 2019
+
+
+2019
   + Startup Competition in South Korea
 
 2020
