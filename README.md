@@ -42,10 +42,13 @@
       + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART)
 
 - <h4> 💼 &nbsp; A Field in Interest </h4>
+  
   + Perception
     + Object Detection & Tracking
+  
   + Decision
     + Global Path Planning and Local Path Planning
+  
   + Localization
     + Vehicle Position Tracking
 
