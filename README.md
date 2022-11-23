@@ -31,8 +31,8 @@
 - <h4> 🎊 &nbsp; Achievement </h4>
 
   + 📄 Domestic Patent Registration
-    + Title: [Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera](https://patents.google.com/patent/KR102376526B1/ko?oq=KR102376526)
-    + Title: [Method and device for generating GNSS jamming signal data in vehicle](https://patents.google.com/patent/KR102411530B1/ko?oq=KR102411530)
+    + [Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera](https://patents.google.com/patent/KR102376526B1/ko?oq=KR102376526)
+    + [Method and device for generating GNSS jamming signal data in vehicle](https://patents.google.com/patent/KR102411530B1/ko?oq=KR102411530)
 
   + 📄 Paper
     + SCI
