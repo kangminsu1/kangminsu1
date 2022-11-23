@@ -13,14 +13,13 @@
  
 - 🏃‍♂ &nbsp; Activity
 
-
   + 2019
     + Startup Competition in South Korea
 
-2020
-  + 1th V2X Demonstration Challenge in South Korea
-  + 18th Embedded SW Contest in South Korea
-  + 2020 Automonous Driving Contest for University Students in South Korea
+  + 2020
+    + 1th V2X Demonstration Challenge in South Korea
+    + 18th Embedded SW Contest in South Korea
+    + 2020 Automonous Driving Contest for University Students in South Korea
 
 2022
   + 1th INSTAR Festival Contest in University
