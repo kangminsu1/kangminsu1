@@ -7,9 +7,11 @@
 
 <h3> 👨🏻‍💻 &nbsp; About Me </h3>
 
-- 🎓 &nbsp; Introduction: 
-  + Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
-  + Current: Navigation Advanced Development Team in Hyundai Autoever 
+- <h4> 🎓 &nbsp; Introduction </h4>
+  + Past
+    + M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
+  + Current
+    + Navigation Advanced Development Team in Hyundai Autoever 
  
 - <h4> 🏃‍♂ &nbsp; Activity </h4>
 
@@ -24,40 +26,26 @@
   + 2022
     + 1th INSTAR Festival Contest in University
 
-- 🎊 &nbsp; Achievement
+- <h4> 🎊 &nbsp; Achievement </h4>
 
-  + Domestic Patent Registration
+  + 📄 Domestic Patent Registration
     + Title: [Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera](https://patents.google.com/patent/KR102376526B1/ko?oq=KR102376526)
     + Title: Method and device for generating GNSS jamming signal data in vehicle
 
-  + Paper
+  + 📄 Paper
     + SCI
       + Lidar and V2X-Based Cooperative Localization Technique for Autonomous Driving in a GNSS-Denied Environment
- ● KCI
-  + [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on 
- Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970)
-  + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving 
- Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART)
- 
-- 🤔 &nbsp; Achievement: 
-  + 2019 Startup Competition.
-  + 2020 V2X Demonstration Challenge [1th]
-  + 2020 Embedded SW Contest [18th]
-  + 2020 Automonous Driving Contest for University Students
-  + 2022 INSTAR Festival Contest [1th]
-  + 2022 Domestic Patent Registration 
-    - Title: [Method and System for Traffic Accident Replay System by Utilizing Data from Self-Driving Car Sensor and Infra-Camera](https://patents.google.com/patent/KR102376526B1/ko?oq=KR102376526)
-    - Title: Method and Apparatus to Generate GNSS Jamming Signal Data in Car
- 
-- 📄 Paper
-  + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART), The journal of the Korea Institute of Intelligent Transportation Systems
-  + [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970), The journal of the Korea Institute of Intelligent Transportation Systems
+    + KCI
+      + [Development of Commercial Game Engine-based Low Cost Driving Simulator for Researches on Autonomous Driving Artificial Intelligent Algorithms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792970)
+      + [Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART)
 
-- 💼 &nbsp; A Field in Interest: 
-  + Perception: Object Detection -- 2D Lidar: L-Shape Fitting, 3D Lidar: Deep Learning
-  + Decision: Global Path Planning and Local Path Planning [A*, Frenet Frame Planning] -- HD Map
-  + Localization: Vehicle Position Tracking [Extended Kalman Filtering, Particle Filtering, NDT Localization, HDL-Graph SLAM] -- GNSS(U-Blox, RTK), V2X, Lidar, IMU
-
+- <h4> 💼 &nbsp; A Field in Interest </h4>
+  + Perception
+    + Object Detection & Tracking
+  + Decision
+    + Global Path Planning and Local Path Planning
+  + Localization
+    + Vehicle Position Tracking
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
