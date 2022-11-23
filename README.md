@@ -11,8 +11,8 @@
   + Past: M.S in Inha University from South Korea. Major in Electro Software Engineering and Concentration is Autonomous Vehicle Engineering
   + Current: Navigation Advanced Development Team in Hyundai Autoever 
  
-- 🏃‍♂ &nbsp; Activity;
-2019
+- 🏃‍♂ &nbsp; Activity
+-- 2019
   + Startup Competition in South Korea
 
 2020
