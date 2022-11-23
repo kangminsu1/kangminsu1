@@ -14,8 +14,8 @@
 - 🏃‍♂ &nbsp; Activity
 
 
-2019
-  + Startup Competition in South Korea
+  + 2019
+  ++ Startup Competition in South Korea
 
 2020
   + 1th V2X Demonstration Challenge in South Korea
